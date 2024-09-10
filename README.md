@@ -7,9 +7,8 @@ Ce projet est une API simple développée avec Node.js et MongoDB, permettant la
 - [Fonctionnalités](#fonctionnalités)
 - [Technologies utilisées](#technologies-utilisées)
 - [Installation](#installation)
-- [Endpoints de l'API](#endpoints-de-lapi)
-- [Utilisation](#utilisation)
-- [Licence](#licence)
+
+
 
 ## Fonctionnalités
 
